@@ -205,7 +205,7 @@ DB 설계, 데이터 삽입
     
 4. 홀드 자동 분류
     
-    ![AI 홀드 분류.gif](./resources/AI_홀드 분류.gif)
+    ![AI 홀드 분류.gif](./resources/AI 홀드 분류.gif)
     
 5. 홀드 직접 선택
     
@@ -213,11 +213,11 @@ DB 설계, 데이터 삽입
     
 6. start  홀드, top 홀드 선택
     
-    ![시작, 도착 선택.gif](./resources/시작,도착 선택.gif)
+    ![시작, 도착 선택.gif](./resources/시작, 도착 선택.gif)
     
 7. 홀드 색상/레벨 선택
     
-    ![홀드 색상, 레벨 선택.gif](./resources/홀드 색상,레벨 선택.gif)
+    ![홀드 색상, 레벨 선택.gif](./resources/홀드 색상, 레벨 선택.gif)
     
 8. 최종 확인 및 솔루션 검색
     
