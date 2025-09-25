@@ -260,7 +260,7 @@ DB 설계, 데이터 삽입
 
 ---
 
-![나의 풀이 경로.gif](./resources/나의 풀이 경로.gif)
+![나의 풀이 경로.gif](./resources/my_solution.gif)
 
 ---
 
